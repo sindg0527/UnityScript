@@ -23,9 +23,9 @@ public class First : MonoBehaviour
     //실질적인 동작 등을 구현해야하는 위치
     //핵심 로직 등이 작성되는 위치
 
-    void Update()
-    {
-        count++;
-        Debug.Log(count);
-    }
+    //void Update()
+    //{
+    //    count++;
+    //    Debug.Log(count);
+    //}
 }
